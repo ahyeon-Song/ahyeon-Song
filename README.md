@@ -2,15 +2,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave)
 
 
-**Ahyeon** is a ✨ _Designer & Coder_ ✨ based in Korea
+**Ahyeon** is a 💗 _Designer & Coder_ 💗 based in Korea 
 
 - 🌱 I’m currently learning `Javascript`
-- 🤔 I’m looking for help with `Developers`
-- 💬 Ask me about ...`Anything`
-- 📫 If you want to contact with me,: `sahjump@gmail.com`
+- 💦 I’m looking for help with `Developers`
+- 😽 Ask me about ...`Anything`
+- ✉️ If you want to contact with me,: `sahjump@gmail.com`
 
 ---
-### Skills
+### #Skills
 
 
 
@@ -26,7 +26,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-⚡Languages⚡
+🍪 Languages 🍪
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@
 
 
 ---
-### Social
+### #Social
 
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
@@ -53,7 +53,7 @@
 
 
 ---
-### Stats
+### #Stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-song&theme=outrun&show_icons=true)
