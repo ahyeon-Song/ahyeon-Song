@@ -1,25 +1,18 @@
 
-<!--
-**ahyeon-Song/ahyeon-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Ahyeon** is a ✨ _Designer & Coder_ ✨ based in Korea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Skills
+- 🌱 I’m currently learning `Javascript`
+- 🤔 I’m looking for help with `Developers`
+- 💬 Ask me about ...`Anything`
+- 📫 If you want to contact with me,: `sahjump@gmail.com`
 
 ---
+### Skills
 
 
-✨Design✨
+
+✨Design Skills✨
 
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -37,3 +30,28 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+---
+### Social
+
+
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+* <https://ahyeonsong-home.netlify.app/>
+
+
+
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+* <https://www.linkedin.com/in/ahyeon-song-75697a225/>
+
+
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+* <https://www.behance.net/ruko1>
+
+
+---
+### Stats
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-song&theme=outrun&show_icons=true)
