@@ -1,7 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave)
-
-
 **Ahyeon** is a 💗 _Designer & Coder_ 💗 based in Korea 
 
 - 🌱 I’m currently learning `Javascript`
